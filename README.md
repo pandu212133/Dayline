@@ -1,2 +1,2 @@
-# Dayline
-Productivity
+# Dayline 1.0 preview
+Independent PWA. Upload runtime files to GitHub Pages root, open HTTPS URL in Safari, Share > Add to Home Screen. First online load required. LocalStorage is plaintext; export backups regularly. No native calendar sync, notifications, invitations, drag/drop, external AI, or cross-device sync. Rule-based English capture supports today/tomorrow/next weekday, ISO dates, at time, for duration, every day/week/month, #project, @label, p1–p4. Review fields before saving. Calendar is month view; events are local records. Checklists are editable text lines, not independently checkable. Browser/iPhone testing pending. Run node test.mjs. Original UI, not an exact proprietary clone.
